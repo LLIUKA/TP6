@@ -44,14 +44,18 @@ La plus grande île du Japon, abritant:
 ---
 ## 🎟️ Les Manga les plus connue 
 
-- Shonen
-  -  HunterxHunter 🃏
-  -  Full Metal alchimiste 🦾
-  -  One Piece 👒
+## - Shonen
+     -  HunterxHunter 🃏
+     -  Full Metal alchimiste 🦾
+     -  One Piece 👒
 
-- Isekai
-   -  Moi quand je me reincarne en slime 🦠
-   -  rising of shiel heroes 🛡️
+## - Isekai
+      -  Moi quand je me reincarne en slime 🦠
+      -  rising of shiel heroes 🛡️
+
+ ## - Humour 
+      - Assasination classroom 🐙
+      - kuroko basket 🏀
 ---
 ## 🍜 Gastronomie Japonaise
 
