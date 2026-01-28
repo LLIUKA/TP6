@@ -21,7 +21,7 @@ La plus grande île du Japon, abritant:
 - *Kyoto* - Le cœur traditionnel du Japon
 - *Osaka* - La ville de la cuisine savoureuse
 
-<img src="/hongshu.jpg" width="58" height="56"/>
+<img src="/hongshu.jpg" width="250" height="200"/>
 ![Montagne d'Hongshu](/hongshu.jpg "hongshu").
 
 ### **Hokkaido** ❄️
@@ -29,6 +29,7 @@ La plus grande île du Japon, abritant:
 2. Montagnes majestueuses et sources chaudes
 3. *Nature préservée* et paysages alpins
 
+<img src="/hokkaido.jpg" width="250" height="200"/>
 ![Ville d'Hokkaido](/hokkaido.jpg "Hokkaido").
 
 
