@@ -6,7 +6,9 @@
 
 > 🎌 *Le Japon est une destination magique où la tradition rencontre la modernité*
 
-Découvrez une nation fascinante avec ses paysages enchanteurs, sa culture riche et ses traditions millénaires.
+Découvrez un pay fascinant avec ses paysages, sa culture riche et ses traditions millénaires.
+
+cliker sur ce lien pour en savoir plus :[link text]https://www.japan.travel/fr/fr/
 
 ---
 
