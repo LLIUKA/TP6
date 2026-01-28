@@ -8,6 +8,7 @@
 
 Découvrez un pay fascinant avec ses paysages, sa culture riche et ses traditions millénaires.
 
+
 cliker sur ce lien pour en savoir plus :[office tourisme japonnais](https://www.japan.travel/fr/fr/)
 
 ---
@@ -19,7 +20,8 @@ La plus grande île du Japon, abritant:
 - *Tokyo* - **La capitale vibrante** et moderne
 - *Kyoto* - Le cœur traditionnel du Japon
 - *Osaka* - La ville de la cuisine savoureuse
-  
+
+<img src="/hongshu.jpg" width="58" height="56"/>
 ![Montagne d'Hongshu](/hongshu.jpg "hongshu").
 
 ### **Hokkaido** ❄️
