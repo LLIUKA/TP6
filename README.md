@@ -40,10 +40,16 @@ La plus grande île du Japon, abritant:
 | **Yuki** ⛄ | Paysages enneigés | **Hiver** |
 
 ---
-## 🎟️ Les Manga
+## 🎟️ Les Manga les plus connue 
 
 - Shonen
-  - 1. HunterxHunter
+  - 1. HunterxHunter 🃏
+  - 2. Full Metal alchimiste 🦾
+  - 3. One Piece 👒
+
+- Isekai
+    1. Moi quand je me reincarne en slime 🦠
+    2. rising of shiel heroes 🛡️
 ---
 ## 🍜 Gastronomie Japonaise
 
