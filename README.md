@@ -37,10 +37,10 @@ La plus grande île du Japon, abritant:
 
 | Aspect | Description | Saison |
 |--------|-------------|--------|
-| **Sakura** 🌸 | Floraison des cerisiers .| *Printemps* ![Sakura](/Image/Sakura.jpg "hongshu") | 
-| **Matsuri** 祭 | Festivals traditionnels .| **Été**    ![Festival tradi](/Image/matsuri.jpg "hongshu")| 
-| **Koyo** 紅葉 | Feuillages d'automne .| *Automne*  ![Koyo](/Image/koyo.jpg "hongshu")| 
-| **Yuki** ⛄ | Paysages enneigés . | **Hiver**    ![Payssage eneigé](/Image/yuki.jpg "hongshu")| 
+| **Sakura** 🌸 | Floraison des cerisiers .| *Printemps*  ㅤ ㅤ![Sakura](/Image/Sakura.jpg "hongshu") | 
+| **Matsuri** 祭 | Festivals traditionnels .| **Été** ㅤ ㅤ![Festival tradi](/Image/matsuri.jpg "hongshu")| 
+| **Koyo** 紅葉 | Feuillages d'automne .| *Automne* ㅤ ㅤ![Koyo](/Image/koyo.jpg "hongshu")| 
+| **Yuki** ⛄ | Paysages enneigés . | **Hiver** ㅤ ㅤ![Payssage eneigé](/Image/yuki.jpg "hongshu")| 
 
 ---
 ## 🎟️ Les Manga les plus connue 
