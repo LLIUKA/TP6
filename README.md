@@ -42,7 +42,8 @@ La plus grande île du Japon, abritant:
 ---
 ## 🎟️ Les Manga
 
-- Shonen\n - HunterxHunter
+- Shonen
+  -- HunterxHunter
 ---
 ## 🍜 Gastronomie Japonaise
 
