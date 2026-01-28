@@ -114,22 +114,20 @@ La plus grande île du Japon, abritant:
 
 | Français | Japonais | Prononciation |
 |----------|----------|--------------|
-| **Bonjour** | こんにちは | *Konnichiwa* |
+| *Bonjour* | こんにちは | **Konnichiwa** |
 | *Merci* | ありがとう | **Arigatou** |
-| **S'il vous plaît** | お願いします | *Onegaishimasu* |
+| *S'il vous plaît* | お願いします | **Onegaishimasu** |
 | *Excusez-moi* | すみません | **Sumimasen** |
 
 ---
 
 ## 🌟 Conclusion
 
-> 🗾 ***Le Japon vous attend avec ses mystères et ses merveilles***
+> 🗾 ***Le Japon vous attend alors ne le faite pas attendre***
 
-**Embarquez pour une aventure inoubliable** où chaque instant vous surprendra. Que ce soit les temples millénaires, la technologie futuriste ou la cuisine exquise, le Japon saura vous **enchanter et vous transformer**.
+**Embarquez pour une aventure inoubliable** où chaque instant vous surprendra. Que ce soit les temples millénaires, la cuisine exquise, la culture literaire avec les mangas, le Japon saura vous **Conquire**.
 
 *Bon voyage!* 🛫✨
 
 ---
-
-**Dernière mise à jour:** Janvier 2026 | 📍 *Tokyo, Kyoto, Osaka* | 🎌 **Explorez, Apprenez, Découvrez**
 
