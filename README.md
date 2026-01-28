@@ -21,9 +21,9 @@ La plus grande île du Japon, abritant:
 - *Osaka* - La ville de la cuisine savoureuse
 
 ### **Hokkaido** ❄️
-- *Sapporo* - **Connue pour son festival de neige**
-- Montagnes majestueuses et sources chaudes
-- *Nature préservée* et paysages alpins
+1. *Sapporo* - **Connue pour son festival de neige**
+2. Montagnes majestueuses et sources chaudes
+3. *Nature préservée* et paysages alpins
 
 ### **Kyushu** 🌋
 - Volcans et sources thermales naturelles
