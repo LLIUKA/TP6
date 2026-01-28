@@ -43,7 +43,7 @@ La plus grande île du Japon, abritant:
 ## 🎟️ Les Manga
 
 - Shonen
-  -- HunterxHunter
+- HunterxHunter
 ---
 ## 🍜 Gastronomie Japonaise
 
@@ -95,29 +95,6 @@ La plus grande île du Japon, abritant:
     Température: 15-25°C            Température: 15-25°C
     ★★★★★ Recommandé               ★★★★★ Recommandé
 ```
-
----
-
-## 💡 Conseils Pratiques
-
-### Transport 🚄
-- **Carte JR Pass** - *Accès illimité aux trains*
-- Métro moderne et **très ponctuel**
-- *Taxis jaunes* avec sièges blancs
-
-### Hébergement 🏨
-- ***Ryokan*** - Auberges traditionnelles
-- **Hôtels modernes** 5 étoiles
-- *Capsule hotels* - Expérience unique
-
-### Étiquette 🙏
-1. Ôter ses chaussures à l'entrée
-2. **Ne pas pointer du doigt**
-3. *Dire "itadakimasu"* avant de manger
-4. **Slurper les nouilles** avec enthousiasme
-5. *Remercier le chef* poliment
-
----
 
 ## 🎯 Phrases Utiles
 
