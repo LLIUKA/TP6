@@ -28,7 +28,7 @@ La plus grande île du Japon, abritant:
 2. Montagnes majestueuses et sources chaudes
 3. *Nature préservée* et paysages alpins
 
-![Ville d'Hokkaido](/hokkaido.jpg "Hokkaido").
+![Ville d'Hokkaido](/Image/hokkaido.jpg "Hokkaido").
 
 
 ---
@@ -37,10 +37,10 @@ La plus grande île du Japon, abritant:
 
 | Aspect | Description | Saison |
 |--------|-------------|--------|
-| **Sakura** 🌸 | Floraison des cerisiers | *Printemps* |
-| **Matsuri** 祭 | Festivals traditionnels | **Été** |
-| **Koyo** 紅葉 | Feuillages d'automne | *Automne* |
-| **Yuki** ⛄ | Paysages enneigés | **Hiver** |
+| **Sakura** 🌸 | Floraison des cerisiers | *Printemps* | ![Sakura](/Image/hongshu.jpg "hongshu").
+| **Matsuri** 祭 | Festivals traditionnels | **Été** | ![Festival tradi](/Image/hongshu.jpg "hongshu").
+| **Koyo** 紅葉 | Feuillages d'automne | *Automne* | ![Koyo](/Image/hongshu.jpg "hongshu").
+| **Yuki** ⛄ | Paysages enneigés | **Hiver** | ![Payssage eneigé](/Image/hongshu.jpg "hongshu").
 
 ---
 ## 🎟️ Les Manga les plus connue 
