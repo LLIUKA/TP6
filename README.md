@@ -79,11 +79,12 @@ La plus grande île du Japon, abritant:
 
 >  **Ne pas manquer ces sites extraordinaires**
 
-- [ ] Temple Fushimi Inari à Kyoto (10 000 torii 🏮)
-- [ ] Mont Fuji 🗻 - *Le symbole du Japon*
+- [x] Temple Fushimi Inari à Kyoto (10 000 torii 🏮)
+- [x] Mont Fuji 🗻 - *Le symbole du Japon*
 - [ ] Château Himeji - **Chef-d'œuvre architectural**
 - [ ] Shibuya Crossing à Tokyo - *La plus grande croisement du monde*
-- [ ] Arashiyama Bamboo Grove - Bambous géants
+- [x] Arashiyama Bamboo Grove - Bambous géants
+- [ ] Park Super nintendo a osaka
 
 ### Expériences Authentiques 🎌
 
