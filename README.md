@@ -19,7 +19,8 @@ La plus grande île du Japon, abritant:
 - *Tokyo* - **La capitale vibrante** et moderne
 - *Kyoto* - Le cœur traditionnel du Japon
 - *Osaka* - La ville de la cuisine savoureuse
-[Texte alternatif](C:\Users\EVA\Downloads\hongshu.jpg "hongshu").
+  
+[Texte alternatif](hongshu.jpg "hongshu").
 
 ### **Hokkaido** ❄️
 1. *Sapporo* - **Connue pour son festival de neige**
@@ -41,15 +42,6 @@ La plus grande île du Japon, abritant:
 | **Matsuri** 祭 | Festivals traditionnels | **Été** |
 | **Koyo** 紅葉 | Feuillages d'automne | *Automne* |
 | **Yuki** ⛄ | Paysages enneigés | **Hiver** |
-
-### Les Arts Traditionnels
-
-> *"La beauté réside dans la simplicité"*
-
-- **Thé Cérémonie** - Une art de vivre et de sérénité
-- ***Ikebana*** - L'arrangement floral japonais
-- **Calligraphie** - L'expression de l'âme par les caractères
-- *Théâtre Nô* - **Patrimoine UNESCO**
 
 ---
 
