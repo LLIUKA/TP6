@@ -20,14 +20,14 @@ La plus grande île du Japon, abritant:
 - *Kyoto* - Le cœur traditionnel du Japon
 - *Osaka* - La ville de la cuisine savoureuse
   
-![Montagne d'Hongshu](hongshu.jpg "hongshu").
+![Montagne d'Hongshu](image/hongshu.jpg "hongshu").
 
 ### **Hokkaido** ❄️
 1. *Sapporo* - **Connue pour son festival de neige**
 2. Montagnes majestueuses et sources chaudes
 3. *Nature préservée* et paysages alpins
 
-![Ville d'Hokkaido](hokkaido.jpg "Hokkaido").
+![Ville d'Hokkaido](image/hokkaido.jpg "Hokkaido").
 
 
 ---
