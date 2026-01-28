@@ -8,7 +8,7 @@
 
 Découvrez un pay fascinant avec ses paysages, sa culture riche et ses traditions millénaires.
 
-cliker sur ce lien pour en savoir plus :[link text](https://www.japan.travel/fr/fr/)
+cliker sur ce lien pour en savoir plus :[office tourisme japonnais](https://www.japan.travel/fr/fr/)
 
 ---
 
