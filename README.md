@@ -38,7 +38,7 @@ La plus grande île du Japon, abritant:
 | Aspect | Description | Saison |
 |--------|-------------|--------|
 | **Sakura** 🌸 | Floraison des cerisiers ![Sakura](/Image/Sakura.jpg "hongshu").| *Printemps* | 
-| **Matsuri** 祭 | Festivals traditionnels ![Festival tradi](/Image/Matsuri.jpg "hongshu").| **Été** | 
+| **Matsuri** 祭 | Festivals traditionnels ![Festival tradi](/Image/matsuri.jpg "hongshu").| **Été** | 
 | **Koyo** 紅葉 | Feuillages d'automne ![Koyo](/Image/koyo.jpg "hongshu").| *Automne* | 
 | **Yuki** ⛄ | Paysages enneigés ![Payssage eneigé](/Image/yuki.jpg "hongshu"). | **Hiver** | 
 
