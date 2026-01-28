@@ -27,10 +27,6 @@ La plus grande île du Japon, abritant:
 2. Montagnes majestueuses et sources chaudes
 3. *Nature préservée* et paysages alpins
 
-### **Kyushu** 🌋
-- Volcans et sources thermales naturelles
-- *Hiroshima* - Un lieu de mémoire et d'espoir
-- **Plages tropicales** et climat subtropical
 
 ---
 
@@ -44,7 +40,10 @@ La plus grande île du Japon, abritant:
 | **Yuki** ⛄ | Paysages enneigés | **Hiver** |
 
 ---
+## 🎟️ Les Manga
 
+-Shonen\n -HunterxHunter
+---
 ## 🍜 Gastronomie Japonaise
 
 ### Plats Incontournables
@@ -69,7 +68,7 @@ La plus grande île du Japon, abritant:
 
 ### Incontournables ⭐⭐⭐
 
-> 🎟️ **Ne pas manquer ces sites extraordinaires**
+>  **Ne pas manquer ces sites extraordinaires**
 
 - [ ] Temple Fushimi Inari à Kyoto (10 000 torii 🏮)
 - [ ] Mont Fuji 🗻 - *Le symbole du Japon*
